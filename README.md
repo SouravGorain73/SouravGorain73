@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Gorain</h1>
-<h3 align="center">Backend Developer | Spring Boot | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Backend+Engineer;REST+API+Developer;Full+Stack+Developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Applications;Passionate+About+Clean+Code&center=true&width=500&height=45">
 </p>
 
 ---
