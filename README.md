@@ -11,7 +11,7 @@
 - 🔭 Building backend and full-stack applications  
 - 🤝 Open to collaborating on development projects  
 - 🧠 Interested in software development, system design & problem solving  
-- 💻 Focused on **Javajava, Spring Boot, REST APIs & Web Development**  
+- 💻 Focused on **Java, Spring Boot, REST APIs & Web Development**  
 - 💬 Ask me about **Backend Development, APIs, and Git**  
 - ⚡ I enjoy coding, photography and creating real-world solutions  
 
@@ -63,11 +63,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SouravGorain73&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SouravGorain73&show_icons=true&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=SouravGorain73&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravGorain73&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SouravGorain73&layout=compact&theme=tokyonight"/>
 
 </p>
 
