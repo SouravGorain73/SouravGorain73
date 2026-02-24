@@ -62,7 +62,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=SouravGorain73&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SouravGorain73&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=SouravGorain73&theme=tokyonight" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravGorain73&layout=compact&theme=tokyonight"/>
+
 </p>
