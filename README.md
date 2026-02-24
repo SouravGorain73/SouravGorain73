@@ -70,3 +70,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravGorain73&layout=compact&theme=tokyonight"/>
 
 </p>
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/SouravGorain73/SouravGorain73/blob/output/github-contribution-grid-snake.svg)
