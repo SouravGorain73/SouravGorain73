@@ -12,9 +12,7 @@
 - 🤝 Open to collaborating on development projects  
 - 🧠 Interested in software development, system design & problem solving  
 - 💻 Focused on **Java, Spring Boot, REST APIs & Web Development**  
-- 💬 Ask me about **Backend Development, APIs, and Git**  
-- ⚡ I enjoy coding, photography and creating real-world solutions  
-
+- 💬 Ask me about **Backend Development, APIs, and Git**
 ---
 
 ## 🌐 Connect With Me
